@@ -8,7 +8,6 @@ class LC217ContainsDuplicateTest {
 
         LC217ContainsDuplicate cd = new LC217ContainsDuplicate();
         int[] nums = new int[]{0, 0};
-        cd.containsDuplicate(nums);
         assertTrue(cd.containsDuplicate(nums));
     }
 }
