@@ -1,3 +1,5 @@
+package src.ArraysAndHashing;
+
 import java.util.HashSet;
 
 public class LC217ContainsDuplicate {

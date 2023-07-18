@@ -1,3 +1,5 @@
+package src.ArraysAndHashing;
+
 import java.util.HashMap;
 
 public class LC1TwoSum {

@@ -1,3 +1,5 @@
+package src.ArraysAndHashing;
+
 import java.util.*;
 
 public class LC49GroupAnagrams {
